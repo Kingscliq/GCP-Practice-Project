@@ -45,7 +45,7 @@
         It may take a few seconds before the External-IP field is populated for your service. This is normal. Just re-run the kubectl get services command every few seconds until the field is populated.
 
 
-    - Open a new web browser tab and paste your cluster's external IP address into the address bar. The default home page of the Nginx browser is        displayed.
+- Open a new web browser tab and paste your cluster's external IP address into the address bar. The default home page of the Nginx browser is        displayed.
 
 
     - Scale up the number of pods running on your service:
